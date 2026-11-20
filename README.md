@@ -24,3 +24,8 @@ This website introduces six beginner-friendly Identity V survivors.
 - Six survivor cards with expandable details.
 - Interactive dialogs for character information.
 - Contact form with input validation.
+## Testing
+- Homepage and Contact page load successfully.
+- Carousel navigation works.
+- Survivor dialogs open and close.
+- Contact form is accessible.
