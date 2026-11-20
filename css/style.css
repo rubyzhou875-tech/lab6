@@ -1,0 +1,6 @@
+/* Lab 6: Bootstrap 6 theme overrides only */
+:root { --bs-primary-base: #8f5b39; --bs-primary-fg: #fffaf1; --bs-primary-bg: #f2e6d8; --bs-primary-border: #8f5b39; --bs-body-bg: #f8f4ed; --bs-body-color: #25292d; }
+.theme-primary { --bs-theme-base: #8f5b39; --bs-theme-fg: #fffaf1; --bs-theme-bg: #f2e6d8; }
+.btn-solid.theme-primary { --bs-btn-bg: #8f5b39; --bs-btn-color: #fffaf1; --bs-btn-border-color: #8f5b39; --bs-btn-hover-bg: #704328; --bs-btn-hover-color: #ffffff; }
+.site-heading { color: #583c2e; }
+.site-footer { color: #554b42; }
