@@ -18,3 +18,9 @@ Suggested commits: 1. initial setup; 2. navbar/drawer; 3. carousel; 4. card gall
 ## Academic integrity
 Read and understand the code before submitting. Bootstrap 6 markup should be compared with your Week 9 walkthrough and instructor docs. Form submission is intentionally a demo and does not contact a server.
 This website introduces six beginner-friendly Identity V survivors.
+## Website Features
+- Responsive navigation with a mobile drawer menu.
+- Three-slide image carousel.
+- Six survivor cards with expandable details.
+- Interactive dialogs for character information.
+- Contact form with input validation.
